@@ -58,3 +58,9 @@ img {
 h2{
 	color: #0987e5;
 }
+
+table, th, td {
+	
+    border: 2px solid black;
+    border-collapse: collapse;
+}
